@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Clausius
 - 👀 I’m interested in Engineering and Physics 
 - 🌱 I’m currently learning Python (Jupyter), C++, and Matlab
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me clausama16@gmail.com
 
 <!---
