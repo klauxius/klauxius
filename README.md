@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Clausius
 - 👀 I’m interested in Engineering and Physics 
-- 🌱 I’m currently learning Python and React.js
 - 📫 How to reach me clausama16@gmail.com
 
 <!---
