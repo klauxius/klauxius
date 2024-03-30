@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Clausius
-- 👀 I’m interested in Engineering and Physics 
-- 📫 How to reach me clausama16@gmail.com
+- 
 
 <!---
 klauxius/klauxius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
