@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Clausius
+- 👋 Hi, I’m Clausius Sama
 -  I develop AI agents and agent-based AI applications
 
 <!---
